@@ -43,12 +43,12 @@ Projecte de desenvolupament d'un Curriculum Vitae en format web utilitzant HTML5
 - Repositori: https://github.com/Marc-RodriguezSanz/Projecte-CV-WEB
 
 ###  2. Projecte — Pràctica WEB
-Muntatge i configuració d’una infraestructura de un servidor web en un entorn de xarxa local
+Muntatge i configuració d’una infraestructura de un servidor web en un entorn de xarxa local.
 - Repositori: https://github.com/Marc-RodriguezSanz/Projecte-Practica-WEB
 
 ###  3. Projecte — Clonació d'equips
-
-- Repositori: https://github.com/Marc-RodriguezSanz/Projecte-Clonacio-Equips/tree/main
+Clonación de equips informàtics utilitzant eines com Clonezilla en un entorn virtualitzat amb VirtualBox. 
+- Repositori: https://github.com/Marc-RodriguezSanz/Projecte-Clonacio-Equips
  
 ## Contacte
 - LinkEdin: https://www.linkedin.com/in/marc-rodriguez-3151b738b/

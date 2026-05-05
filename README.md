@@ -43,7 +43,7 @@ Projecte de desenvolupament d'un Curriculum Vitae en format web utilitzant HTML5
 - Repositori: https://github.com/Marc-RodriguezSanz/Projecte-CV-WEB
 
 ###  2. Projecte — Pràctica WEB
-
+Muntatge i configuració d’una infraestructura de un servidor web en un entorn de xarxa local
 - Repositori: https://github.com/Marc-RodriguezSanz/Projecte-Practica-WEB
  
 ## Contacte

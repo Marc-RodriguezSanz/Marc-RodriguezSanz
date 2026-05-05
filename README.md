@@ -27,7 +27,7 @@ Busco pràctiques en l’àmbit de la informàtica, on pugui aplicar els coneixe
 - Git & GitHub
 
 ### Base de dades
--MySQL
+- MySQL
 
 ### Eines
 - Visual Studio Code

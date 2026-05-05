@@ -40,7 +40,7 @@ Busco pràctiques en l’àmbit de la informàtica, on pugui aplicar els coneixe
 
 ###  1. Projecte — CV Web 
 Projecte de desenvolupament d'un Curriculum Vitae en format web utilitzant HTML5 i CSS.
-🔗 Repositori: 
+- Repositori: https://github.com/Marc-RodriguezSanz/Projecte-CV-WEB
 
 ###  2. Projecte — 
 

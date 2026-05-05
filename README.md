@@ -10,26 +10,26 @@ Busco pràctiques en l’àmbit de la informàtica, on pugui aplicar els coneixe
 
 ## Tecnologies i eines
 
-# Sistemes
+### Sistemes
 - Linux (Ubuntu, Debian)
 - Windows Server (básico)
 - VirtualBox
 
-# Xarxes
+### Xarxes
 - Configuración de redes LAN
 - DNS / DHCP (básico)
 - TCP/IP
 
-# Desenvolupamnet 
+### Desenvolupamnet 
 - HTML5
 - CSS3
 - JavaScript (básico)
 - Git & GitHub
 
-# Base de dades
+### Base de dades
 -MySQL
 
-# Eines
+### Eines
 - Visual Studio Code
 - Git Bash
 - Wireshark (básico)

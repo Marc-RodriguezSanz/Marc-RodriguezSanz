@@ -12,18 +12,18 @@ Busco pràctiques en l’àmbit de la informàtica, on pugui aplicar els coneixe
 
 ### Sistemes
 - Linux (Ubuntu, Debian)
-- Windows Server (básico)
+- Windows Server 
 - VirtualBox
 
 ### Xarxes
 - Configuración de redes LAN
-- DNS / DHCP (básico)
+- DNS / DHCP 
 - TCP/IP
 
 ### Desenvolupamnet 
 - HTML5
 - CSS3
-- JavaScript (básico)
+- JavaScript 
 - Git & GitHub
 
 ### Base de dades
@@ -32,7 +32,7 @@ Busco pràctiques en l’àmbit de la informàtica, on pugui aplicar els coneixe
 ### Eines
 - Visual Studio Code
 - Git Bash
-- Wireshark (básico)
+- Wireshark 
 - Packet Tracer
 
 

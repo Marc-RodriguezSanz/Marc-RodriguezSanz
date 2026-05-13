@@ -8,6 +8,22 @@ També estic desenvolupant habilitats en programació web i automatització de t
 Soc una persona responsable, compromesa i adaptable, interessat a adquirir experiència.
 Busco pràctiques en l’àmbit de la informàtica, on pugui aplicar els coneixements adquirits durant la meva formació
 
+## Skills
+
+### Soft Skills
+- Motivació
+- Puntualitat
+- Organització
+- Treball en equip
+- Responsabilitat
+
+### Hard Skills
+- Administració  de sistemes
+- Virtualització (VirtualBox)
+- Instal·lació i configuració de Windows i Linux
+- Ús de llenguatges de marques (HTML, CSS, SQL)
+- Gestió bàsica de bases de dades
+
 ## Tecnologies i eines
 
 ### Sistemes
